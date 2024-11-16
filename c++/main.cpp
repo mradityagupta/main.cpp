@@ -88,31 +88,69 @@ int main()
     //     cout<<"Negative";
     // }
 
-    char c='a';
-    if(c=='a')
-    {
-        cout<<"Vowel";
-    }
-    else if (c=='e')
-    {
-        cout<<"Vowel";
-    }
-    else if(c=='i')
-    {
-        cout<<"Vowel";
-    }
-    else if(c=='o')
-    {
-        cout<<"Vowel";
-    }
-    else if(c=='u')
-    {
-        cout<<"Vowel";
-    }
-    else
-    {
-        cout<<"Consonent";
-    }
+    // char c='a';
+    // if(c=='a')
+    // {
+    //     cout<<"Vowel";
+    // }
+    // else if (c=='e')
+    // {
+    //     cout<<"Vowel";
+    // }
+    // else if(c=='i')
+    // {
+    //     cout<<"Vowel";
+    // }
+    // else if(c=='o')
+    // {
+    //     cout<<"Vowel";
+    // }
+    // else if(c=='u')
+    // {
+    //     cout<<"Vowel";
+    // }
+    // else
+    // {
+    //     cout<<"Consonent";
+    // }
+
+    // int number;
+    // cout<<"Enter a number:";
+    // cin>>number;
+    // if(number==1)
+    // {
+    //     cout<<"Monday";
+    // }
+    // else if(number==2)
+    // {
+    //     cout<<"Tuesday";
+    // }
+    // else if(number==3)
+    // {
+    //     cout<<"Wednesday";
+    // }
+    // else if(number==4)
+    // {
+    //     cout<<"Thursday";
+    // }
+    // else if(number==5)
+    // {
+    //     cout<<"Friday";
+    // }
+    // else if(number==6)
+    // {
+    //     cout<<"Saturday";
+    // }
+    // else if(number==7)
+    // {
+    //     cout<<"Sunday";
+    // }
+    // else
+    // {
+    //     cout<<"Enter a valid number:";
+    // }
+
+    
 
     
 
