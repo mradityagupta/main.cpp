@@ -88,13 +88,38 @@ int main()
     //     cout<<"Negative";
     // }
 
-    int vowel;
-    cout<<"Enter a vowel:";
-    cin>>vowel;
-    int consonent;
-    cout<<"Enter a consonent:";
-    cin>>consonent;
-    if()
+    char c='a';
+    if(c=='a')
+    {
+        cout<<"Vowel";
+    }
+    else if (c=='e')
+    {
+        cout<<"Vowel";
+    }
+    else if(c=='i')
+    {
+        cout<<"Vowel";
+    }
+    else if(c=='o')
+    {
+        cout<<"Vowel";
+    }
+    else if(c=='u')
+    {
+        cout<<"Vowel";
+    }
+    else
+    {
+        cout<<"Consonent";
+    }
+
+    
+
+    
+    
+
+
 
 
     return 0;
