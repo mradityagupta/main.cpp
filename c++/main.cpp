@@ -150,7 +150,134 @@ int main()
     //     cout<<"Enter a valid number:";
     // }
 
+    // for(int i=1;i<=10;i=i+1)
+    // {
+    //     cout<<"Hello\n";
+    // }
+
+    // int n;
+    // cout<<"Enter the number:";
+    // cin>>n;
+
+    // for(int count=1;count<=n;count=count+1)
+    // {
+    //     cout<<count<<" Square is:"<<count*count<<endl;
+    // }
+
+    // int i;
+    // cout<<"Enter a number:";
+    // cin>>i;
+    // for(i=100;i<=200;i=i+1)
+    // {
+    //     cout<<i<<endl;
+    // }
+
+    // char name;
+    // cout<<"Enter a character:";
+    // cin>>name;
+    // for(name='a';name<='z';name=name+1)
+    // {
+    //     cout<<name<<"";
+    // }
+
+    // int n,i;
+    // cout<<"Enter the number:";
+    // cin>>n;
+    // for(i=n;i>=1;i=i-1)
+    // {
+    //     cout<<i<<"";
+    // }
+
+    // for(int i=1;i<=100;i=i+3)
+    // {
+    //     cout<<i<<"";
+    // }
+
+    // int n;
+    // cout<<"Enter the table:";
+    // cin>>n;
+    // for(int i=1;i<=10;i=i+1)
+    // {
+    //     cout<<n<<"*"<<i<<"="<<n*i<<endl;
+    // }
+
+    // int n;
+    // cout<<"Enter a number:";
+    // cin>>n;
+    // for(int i=n;i<=10*n;i=n+1)
+    // {
+    //     cout<<i;
+    // }
+
+    // int n;
+    // cout<<"Enter the number:";
+    // cin>>n;
+    // int power;
+    // cout<<"Enter the power:";
+    // cin>>power;
+    // int number;
+    // for(int i=1;i<power;i=i+1)
+    // {
+    //     number=number*n;
+    // }
+    // cout<<number;
+
+    // int i,n,sum=0;
+    // for(i=1;i<=n;i=i+1)
+    // {
+    //     sum=sum+i;
+    // }
+    // cout<<sum;
+
+    // int i,n,sum=0;
+    // for(i=1;i<=n;i=i+1)
+    // {
+    //     sum=sum+i*i;
+    // }
+    // cout<<sum;
+
+    // int i,n,factorial=1;
+    // cout<<"Enter a number:";
+    // cin>>n;
+
+    // for(i=1;i<=n;i=i+1)
+    // {
+    //     factorial=factorial*i;
+    // }
+    // cout<<factorial<<" ";
+
+    // int n,i;
+    // cout<<"Enter a number:";
+    // cin>>n;
+    // if(n<2)
+    // {
+    //     cout<<"Not a prime:";
+    //     return 0;
+    // }
+    // else
+    // {
+    //     for(i=2;i<n;i=i+1)
+    //     {
+    //         if(n%i==0)
+    //         {
+    //             cout<<"Not a prime";
+    //             return 0;
+    //         }
+    //         else
+    //         {
+    //             cout<<" ";
+    //         }
+    //     }
+    //     cout<<"Prime Number";
+    //     return 0;
+    // }
+
     
+
+
+
+
+
 
     
 
