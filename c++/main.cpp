@@ -477,6 +477,105 @@ int main()
     //     cout<<endl;
     // }
 
+    // int row;
+    // int column;
+    // for(row=1;row<=5;row=row+1)
+    // {
+    //     for(column=1;column<=5-row;column=column+1)
+    //     {
+    //         cout<<" ";
+    //     }
+    //     for(column=1;column<=row;column=column+1)
+    //     {
+    //         cout<<"*";
+    //     }
+    //     cout<<endl;
+    // }
+
+    // int row;
+    // int column;
+    // int n;
+    // cout<<"Input the number:";
+    // cin>>n;
+    // for(row=1;row<=n;row=row+1)
+    // {
+    //     // space print
+    //     for(column=1;column<=n-row;column=column+1)
+    //     {
+    //         cout<<"  ";
+    //     }
+    //     // star print
+    //     for(column=1;column<=row;column=column+1)
+    //     {
+    //         cout<<"*";
+    //     }
+    //     cout<<endl;
+    // }
+
+    // int row;
+    // int column;
+    // int n;
+    // cout<<"Input the number:";
+    // cin>>n;
+    // for(row=1;row<=n;row=row+1)
+    // {
+    //     for(column=1;column<=n;column=column+1)
+    //     {
+    //         cout<<" ";
+    //     }
+    //     for(column=1;column<=row;column=column+1)
+    //     {
+    //         cout<<row<<" ";
+    //     }
+    //     cout<<endl;
+    // }
+
+    // int row;
+    // int column;
+    // int n;
+    // cout<<"Enter a input number:";
+    // cin>>n;
+    // for(row=1;row<=n;row=row+1)
+    // {
+    //     for(column=1;column<=n-row;column=column+1)
+    //     {
+    //         cout<<" ";
+    //     }
+    //     for(column=1;column<=row;column=column+1)
+    //     {
+    //         cout<<column;
+    //     }
+    //     cout<<endl;
+    // }
+
+    // int row;
+    // int column;
+    // int n;
+    // cout<<"Enter a number:";
+    // cin>>n;
+    // for(row=1;row<=n;row=row+1)
+    // {
+    //     for(column=1;column<=n-row;column=column+1)
+    //     {
+    //         cout<<" ";
+    //     }
+    //     for(column=1;column<=row;column=column+1)
+    //     {
+    //         char name = 'A'+column-1;
+    //         cout<<name<<" ";
+    //     }
+    //     cout<<endl;
+    // }
+
+    
+
+
+
+
+
+
+
+
     
 
 
